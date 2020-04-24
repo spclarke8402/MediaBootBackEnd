@@ -1,2 +1,0 @@
-# MediaBootBackEnd
-Created with CodeSandbox
